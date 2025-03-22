@@ -1,5 +1,7 @@
 # PingBrowser
 
+![image](https://github.com/user-attachments/assets/88a1c76c-3c23-40aa-88e1-cabf110ee4e6)
+
 **PingBrowser** is a minimal, encrypted-cookie-based GTK web browser using WebKit2. It features a custom title bar, basic navigation buttons, and a secure encrypted cookie manager to preserve session data across launches.
 
 ## Features
